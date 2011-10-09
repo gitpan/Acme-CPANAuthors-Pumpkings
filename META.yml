@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Acme-CPANAuthors-Pumpkings
-version:            2010082001
+version:            2011100901
 abstract:           We are pumpkings.
 author:
     - Abigail <cpan@abigail.be>
